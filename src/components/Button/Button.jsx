@@ -2,6 +2,7 @@
 import styles from "./Button.module.css";
 
 const Button = (props) => {
+  // eslint-disable-next-line no-unused-vars
   const { isOutline, icon, text, ...rest } = props;
   return (
     <button
