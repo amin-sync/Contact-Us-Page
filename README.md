@@ -1,8 +1,10 @@
-# React + Vite
+# Contact-Us-Page
+This project is a simple and responsive "Contact Us" page built using React. It includes a form with fields for name, email, and a text message, along with buttons for different contact methods.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
+Responsive design
+Contact form with name, email, and message fields
+Buttons for support chat, call, and email form
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Language](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.javascript.com/)
+[![Framework](https://img.shields.io/badge/framework-React-blue.svg)](https://reactjs.org/)
